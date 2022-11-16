@@ -1,0 +1,17 @@
+{
+  "name": "gud-muzik",
+  "version": "1.0.0",
+  "description": "Music Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazere Wright",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
